@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi ! I'm Sara :) .⊹˚.
 
-<!--
-**Oy5tz/Oy5tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a computer science student  
 
-Here are some ideas to get you started:
+🖇️ I’m currently learning **Technology Management Essentials** , **low-level programming**, **system design**, and **software architecture**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Getting deeper into the world of AI — understanding how machines think, learn, and create.  
+
+🎧 Tech Stack
+| Languages | Tools & Concepts |
+|------------|------------------|
+| C, C++, Java, Python | Git, Linux, Makefiles, Debugging, Data Structures |  
+
+
+ ────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ─────
+
+ 📫 Connect with Me  
+♡ ̆̈      [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-jaber-800a12264)  
+♡ ̆̈   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Oy5tz)
