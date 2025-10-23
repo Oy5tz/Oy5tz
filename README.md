@@ -1,3 +1,4 @@
+![image_alt](https://github.com/Oy5tz/Oy5tz/blob/b1342a7e0e5c527477d5c23f4cde368af8cb720e/Banner-image.jpg)
 ## Hi ! I'm Sara :) .⊹˚.
 
 💻 I'm a computer science student  
