@@ -16,3 +16,6 @@
  
 ♡ ̆̈      [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-jaber-800a12264)  
 ♡ ̆̈   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Oy5tz)
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oy5tz)](https://github.com/anuraghazra/github-readme-stats)
